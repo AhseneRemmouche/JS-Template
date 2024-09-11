@@ -1,0 +1,5 @@
+1- git init
+2- git remote add origin http://hithub.com/...
+3- git add .
+4- git commit -m 'initial commit' 
+5- git push origin master
